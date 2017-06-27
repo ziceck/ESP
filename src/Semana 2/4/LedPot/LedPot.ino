@@ -12,7 +12,7 @@ un potenciometro.
 
 int AnInput = 0;
 
-int ledPin = 13; //Este pin tiene PWM
+int ledPin = 11; //Este pin tiene PWM
 
 int lectura = 0;
 
